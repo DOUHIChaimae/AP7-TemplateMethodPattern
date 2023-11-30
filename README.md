@@ -4,7 +4,7 @@
 The template method pattern is a behavioral design pattern that defines the program skeleton of an algorithm in an operation, deferring some steps to subclasses. It lets one redefine certain steps of an algorithm without changing the algorithm's structure.
 
 ### Application
-![img.png](img.png)
+![img.png](src/main/java/ma/enset/captures/img.png)
 
 ### Implementation
 * Utility class
@@ -69,7 +69,7 @@ public class Test {
 }
 ```
 ### Output
-![img_1.png](img_1.png)
+![img_1.png](src/main/java/ma/enset/captures/img_1.png)
 
 ### Conclusion
 The template method pattern is a behavioral design pattern that defines the program skeleton of an algorithm in an operation, deferring some steps to subclasses. It lets one redefine certain steps of an algorithm without changing the algorithm's structure.
